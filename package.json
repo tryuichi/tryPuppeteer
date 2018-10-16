@@ -1,0 +1,20 @@
+{
+  "name": "googlesearch",
+  "version": "1.0.0",
+  "description": "search google site",
+  "main": "skelton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node skelton.js"
+  },
+  "author": "ryuichi.takahashi@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
